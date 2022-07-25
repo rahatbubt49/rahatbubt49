@@ -7,5 +7,3 @@ I'm currently studying CSE in BUBT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatbubt49)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahatbubt49)  
-
